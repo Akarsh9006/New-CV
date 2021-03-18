@@ -1,0 +1,55 @@
+<div class="middle-container">
+  <div class="profile">
+    <img width="200px" height="200px" src="Images/akarsh-new1.png" alt="Akarsh Pic">
+    <h2>Hii😀</h2>
+    <p>I am a student just completed my B.Tech from Chandigarh University and currently working on my <strong>Web Developer</strong> skills to make a job career in it.</p>
+  </div>
+  <hr>
+  <div class="skills">
+    <h2>My Skills.</h2>
+    <div class="skill-row">
+      <img height="300px" width="300px" class="skills" src="Images/skills.png" alt="skill pic">
+      <span class="sub-skill">
+        <h3>🔸 Ehtical Hacker<br> <img class="sub-skills" src="Images/hacker.png" alt="hacker"></h3>
+        <h3>🔸 Python<br> <img class="sub-skills" src="Images/python.png" alt="hacker"></h3>
+        <h3>🔸 Problem Solving<br> <img class="sub-skills" src="Images/puzzle-pieces.png" alt="problem solving"></h3>
+      </span>
+
+      <p>All the skills above listed are the main one which are the main skills of mine.</p>
+    </div>
+    <hr>
+    <div class="hobbies">
+      <h2><strong>Hobbies</strong></h2>
+      <img class="mental" height="400px;" width="400px" src="Images/mental-health.png" alt="hobbies">
+
+        <h3 class="sub-hobbies">🔸 Gamer</h3>
+        <img class="sub-hobbies" src="Images/gamer1.png" alt="gamer-img">
+        <h3 class="sub-hobbies">🔸 Music Lover</h3>
+        <img class="sub-hobbies" src="Images/party-lover.png" alt="music-img">
+        <h3 class="sub-hobbies">🔸 Traveller</h3>
+        <img class="sub-hobbies" src="Images/traveler.png" alt="traveler-img">
+
+
+      <p>Hobbies are my major helper which help me to build my skill setup and my mind.</p>
+    </div>
+  </div>
+  <hr>
+  <div class="contact-me">
+    <h2>Get In Touch</h2>
+    <h3>You can contact me from the info given below.</h3>
+    <p>Mobile No.-9450397840 <br><br> Email- singh.akarsh64@gmail.com</p>
+    <a class="btn" href="mailto:singh.akarsh64@gmail.com">CONTACT ME</a>
+  </div>
+</div>
+<div class="bottom-container">
+  <a class="footer-link" href="https://www.instagram.com/theyluv.akarsh/">Instagram</a>
+  <a class="footer-link" href="https://www.facebook.com/akarsh.singh.754">Facebook</a>
+  <a class="footer-link" href="https://github.com/Akarsh9006">Github</a>
+  <p>© 2021 Akarsh Singh Tomar.</p>
+</div>
+
+
+
+</body>
+
+</html>
